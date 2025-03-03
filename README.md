@@ -11,10 +11,11 @@ intervals = [
     [0.8, 0.99],    # Beta1
     [0.9, 0.999]    # Beta2
 ]
+```
 
 ### Step 2: Execute Optimization  
 Ensure the optimizer is updated in `@train_qwen` before running the optimization process.  
-```  
+  
 ### Launch it
 
 ```bash
